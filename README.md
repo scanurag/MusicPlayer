@@ -1,7 +1,5 @@
 # 🎵 MusicPlayer.. - Your Favourite Music Is Here
 
-![Logo](logo.png)
-
 A stylish, modern music player web app with a sleek **neon green + black UI**, smooth transitions, animated background, and a glowing vibe. Built with vanilla HTML, CSS, and JavaScript — no frameworks, just pure web magic.
 
 ---
@@ -15,13 +13,6 @@ A stylish, modern music player web app with a sleek **neon green + black UI**, s
 - 🔊 Real-time progress bar synced with the audio
 - 💫 Responsive, hover-friendly design
 - 🎵 Play songs directly by clicking on them
-
----
-
-## 📸 Preview
-
-![Music Player Preview](screenshot.png)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -32,5 +23,4 @@ A stylish, modern music player web app with a sleek **neon green + black UI**, s
 
 ---
 
-## 📂 Folder Structure
 
